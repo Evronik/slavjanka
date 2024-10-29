@@ -1,4 +1,4 @@
-# HTML лендинг «Самогонный аппарат Wein"
+# HTML лендинг «Самогонный аппарат Славянка Премиум"
 ## _Скоптирован мной из интернета и переделан под запрос заказчика_  
 
 [![N|Solid](https://evronik.github.io/slavjanka/slavjanka.jpg)](https://evronik.github.io/slavjanka/)
